@@ -1,2 +1,2 @@
 
-!(https://github.com/BanuNathan/Banu-Bootcamp-HW/blob/main/Excel%20HW1/Screenshot%20(3).png)
+![](https://github.com/BanuNathan/Banu-Bootcamp-HW/blob/main/Excel%20HW1/Screenshot%20(3).png)
